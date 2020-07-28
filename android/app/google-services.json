@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "457042583920",
+    "firebase_url": "https://lite-c741a.firebaseio.com",
+    "project_id": "lite-c741a",
+    "storage_bucket": "lite-c741a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457042583920:android:5b705458d8f04f5231afb5",
+        "android_client_info": {
+          "package_name": "com.hafiz.flutterbarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457042583920-p7eas78mp8l1n6fbnkgbed3he50ma9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpvceSXf_QT6OpBl8qt1d0zNCERkOJ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457042583920-p7eas78mp8l1n6fbnkgbed3he50ma9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457042583920:android:f84b0ae0a350565a31afb5",
+        "android_client_info": {
+          "package_name": "com.hafiz.flutterbarberagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457042583920-p7eas78mp8l1n6fbnkgbed3he50ma9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpvceSXf_QT6OpBl8qt1d0zNCERkOJ_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457042583920-p7eas78mp8l1n6fbnkgbed3he50ma9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
